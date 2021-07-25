@@ -1,0 +1,16 @@
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter02\Basics\bin\Debug\net5.0\Basics.exe
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter02\Basics\bin\Debug\net5.0\Basics.deps.json
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter02\Basics\bin\Debug\net5.0\Basics.runtimeconfig.json
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter02\Basics\bin\Debug\net5.0\Basics.runtimeconfig.dev.json
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter02\Basics\bin\Debug\net5.0\Basics.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter02\Basics\bin\Debug\net5.0\ref\Basics.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter02\Basics\bin\Debug\net5.0\Basics.pdb
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter02\Basics\obj\Debug\net5.0\Basics.csprojAssemblyReference.cache
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter02\Basics\obj\Debug\net5.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter02\Basics\obj\Debug\net5.0\Basics.AssemblyInfoInputs.cache
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter02\Basics\obj\Debug\net5.0\Basics.AssemblyInfo.cs
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter02\Basics\obj\Debug\net5.0\Basics.csproj.CoreCompileInputs.cache
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter02\Basics\obj\Debug\net5.0\Basics.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter02\Basics\obj\Debug\net5.0\ref\Basics.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter02\Basics\obj\Debug\net5.0\Basics.pdb
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter02\Basics\obj\Debug\net5.0\Basics.genruntimeconfig.cache

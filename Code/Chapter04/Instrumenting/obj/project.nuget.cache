@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "MfyOKrI2V90qeICztf7Hyu+d9wIHuJTPtgTmW31GZCdvdsP1IQBQsZ3Lg8ZfyQrCs8Nr2bhGVYILYODVMRg/Yw==",
+  "success": true,
+  "projectFilePath": "F:\\VSCode\\Net_5_csharp9_Testing\\Code\\Chapter04\\Instrumenting\\Instrumenting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harki\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\harki\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\harki\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\harki\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\harki\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\harki\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\harki\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\harki\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\harki\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\VSCode\\Net_5_csharp9_Testing\\Code\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj": {}
+  },
+  "projects": {
+    "F:\\VSCode\\Net_5_csharp9_Testing\\Code\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\VSCode\\Net_5_csharp9_Testing\\Code\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
+        "projectName": "CalculatorLibUnitTests",
+        "projectPath": "F:\\VSCode\\Net_5_csharp9_Testing\\Code\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
+        "packagesPath": "C:\\Users\\harki\\.nuget\\packages\\",
+        "outputPath": "F:\\VSCode\\Net_5_csharp9_Testing\\Code\\Chapter04\\CalculatorLibUnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\harki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\VSCode\\Net_5_csharp9_Testing\\Code\\Chapter04\\CalculatorLib\\CalculatorLib.csproj": {
+                "projectPath": "F:\\VSCode\\Net_5_csharp9_Testing\\Code\\Chapter04\\CalculatorLib\\CalculatorLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\VSCode\\Net_5_csharp9_Testing\\Code\\Chapter04\\CalculatorLib\\CalculatorLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\VSCode\\Net_5_csharp9_Testing\\Code\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
+        "projectName": "CalculatorLib",
+        "projectPath": "F:\\VSCode\\Net_5_csharp9_Testing\\Code\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
+        "packagesPath": "C:\\Users\\harki\\.nuget\\packages\\",
+        "outputPath": "F:\\VSCode\\Net_5_csharp9_Testing\\Code\\Chapter04\\CalculatorLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\harki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

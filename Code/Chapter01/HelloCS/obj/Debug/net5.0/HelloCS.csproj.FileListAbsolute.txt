@@ -1,0 +1,16 @@
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.exe
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.deps.json
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.json
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.dev.json
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter01\HelloCS\bin\Debug\net5.0\ref\HelloCS.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.pdb
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csprojAssemblyReference.cache
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter01\HelloCS\obj\Debug\net5.0\ref\HelloCS.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.pdb
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.genruntimeconfig.cache
