@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LBAQnHQXPPzTX/UqAuLjfnNdIwUDQFGmSH1P/5B/js9H9XVw1xOWFZ8ZT4Jxefqd5972aItpr56xtmpybnf6tw==",
+  "success": true,
+  "projectFilePath": "F:\\VSCode\\Net_5_csharp9_Testing\\Code\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harki\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\harki\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
