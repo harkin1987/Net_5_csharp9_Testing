@@ -1,0 +1,12 @@
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PacktLibrary9\bin\Debug\net5.0\PacktLibrary9.deps.json
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PacktLibrary9\bin\Debug\net5.0\PacktLibrary9.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PacktLibrary9\bin\Debug\net5.0\ref\PacktLibrary9.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PacktLibrary9\bin\Debug\net5.0\PacktLibrary9.pdb
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.csprojAssemblyReference.cache
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.AssemblyInfoInputs.cache
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.AssemblyInfo.cs
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.csproj.CoreCompileInputs.cache
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PacktLibrary9\obj\Debug\net5.0\ref\PacktLibrary9.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PacktLibrary9\obj\Debug\net5.0\PacktLibrary9.pdb

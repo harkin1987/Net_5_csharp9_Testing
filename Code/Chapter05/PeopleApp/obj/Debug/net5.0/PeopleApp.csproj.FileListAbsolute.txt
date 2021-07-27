@@ -17,3 +17,5 @@ F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PeopleApp\obj\Debug\net5.0\People
 F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PeopleApp\bin\Debug\net5.0\PacktLibrary.dll
 F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PeopleApp\bin\Debug\net5.0\PacktLibrary.pdb
 F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PeopleApp\obj\Debug\net5.0\PeopleApp.csproj.CopyComplete
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PeopleApp\bin\Debug\net5.0\PacktLibrary9.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\PeopleApp\bin\Debug\net5.0\PacktLibrary9.pdb
