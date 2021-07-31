@@ -1,0 +1,16 @@
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\Exercise02\obj\Debug\net5.0\Exercise02.csprojAssemblyReference.cache
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\Exercise02\obj\Debug\net5.0\Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\Exercise02\obj\Debug\net5.0\Exercise02.AssemblyInfoInputs.cache
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\Exercise02\obj\Debug\net5.0\Exercise02.AssemblyInfo.cs
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\Exercise02\obj\Debug\net5.0\Exercise02.csproj.CoreCompileInputs.cache
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\Exercise02\bin\Debug\net5.0\Exercise02.exe
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\Exercise02\bin\Debug\net5.0\Exercise02.deps.json
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\Exercise02\bin\Debug\net5.0\Exercise02.runtimeconfig.json
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\Exercise02\bin\Debug\net5.0\Exercise02.runtimeconfig.dev.json
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\Exercise02\bin\Debug\net5.0\Exercise02.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\Exercise02\bin\Debug\net5.0\ref\Exercise02.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\Exercise02\bin\Debug\net5.0\Exercise02.pdb
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\Exercise02\obj\Debug\net5.0\Exercise02.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\Exercise02\obj\Debug\net5.0\ref\Exercise02.dll
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\Exercise02\obj\Debug\net5.0\Exercise02.pdb
+F:\VSCode\Net_5_csharp9_Testing\Code\Chapter05\Exercise02\obj\Debug\net5.0\Exercise02.genruntimeconfig.cache
